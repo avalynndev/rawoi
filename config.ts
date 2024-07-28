@@ -1,0 +1,1 @@
+export const CONSUMET_URL = "https://animetize-api.vercel.app";
